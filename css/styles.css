@@ -1,0 +1,148 @@
+body{
+    background: url('https://sihlandlo-schillo.github.io/images/images2/CreamandBrown.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.main-container {
+    
+}
+.Text{
+    /* justify-content: center;                    
+    margin: auto; */
+    height: 450px;
+    width: 450px;
+}
+.navbar-brand{
+    color: #000000;
+    font-family: 'inter', sans-serif;
+    font-weight: 800;
+}
+img{
+    height: 300px;
+    width: 280px;
+    border-radius: 3ch;
+    float: right;
+}
+.navContainer +.container {
+    margin-top: 50px;
+    border: #000000 solid;
+    height: 350px;
+
+}
+
+footer {
+    background-color: rgb(219, 189, 189);
+    position: ;
+    bottom: 0px;
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+}
+.image2 {
+    width: 60px;
+    height: 50px;
+}
+.aboutMe {
+    align-content: center;
+    border: none;
+    border-radius: 20%;
+    height: 300px;
+    padding-top: 2ch;
+    background-color: rgba(85, 65, 65, 0.56);
+    color: white;
+    font-weight: 150;
+}
+.h3 {
+    color: white;
+    border: none;
+    background-color: rgba(85, 65, 65, 1);
+    padding: 1ch;
+    border-radius: 50%;
+    width: 300px;}
+.skills {
+    height: 100px;
+    width: 90px;
+}
+#nav-link{
+    text-decoration: underline;
+    
+}
+@media screen and (max-width: 425px) {
+    body {
+        height: 105vh;
+    }
+    h4{
+        color: #000000;
+    }
+    .card{
+        height: auto;
+        width: auto;
+    }
+
+
+}
+.em {
+    background-color: transparent;
+    color: rgba(85, 65, 65, 1);
+    font-family: ;
+}
+h4 {
+    background-color: rgb(217, 217, 217, 1);
+    width: 200px;
+    padding: 1ch;
+    border-radius: 50%;
+    color: ;
+    margin-left: 10ch;
+}
+.location {
+    width: 35px;
+    height: 35px;
+    float: left;
+}
+.btn {
+    background-color: rgb(224, 252, 255, 1);
+    color: rgb(52, 73, 93, 1);
+    width: 90px;
+    border: none;
+    border-radius: 50%;
+    justify-content: right;
+}
+.clear  {
+    font-weight: 900;
+}
+.thick {
+    font-weight: 900;
+    font-size: large;
+}
+.hosted {
+    object-fit: cover;
+    height: auto;
+    width: auto;
+}
+.home {
+    height: 100vh;
+}
+.resume {
+    height: 100vh;
+}
+.contacts {
+    height: 100%;
+}
+.testimonies {
+    height: 100vh;
+}
+.aboutPic {
+    padding-top: 3ch;
+    border-radius: 25%;
+}
+.about {
+    height: 100vh;
+}
+li {
+    font-size: larger;
+    color: #000000 ;
+}
+.proCard {
+    background-color: transparent;
+}
